@@ -29,3 +29,14 @@ img {
 .language{
   background-color:rgb(146, 221, 240);
 }
+.survey p {
+  color: white;
+  background-color: rgb(116, 33, 33);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.map p {
+  color:white;
+  background-color: rgb(19, 101, 139);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
