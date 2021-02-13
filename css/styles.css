@@ -9,3 +9,7 @@ h2{
 h3{
   color: rgb(28, 150, 133);
 }
+.column {
+  width: 350px;
+  float: right;
+}
